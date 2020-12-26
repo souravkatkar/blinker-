@@ -1,5 +1,8 @@
 # blinker-
 
+![License](https://img.shields.io/github/license/souravkatkar/blinker-)
+![GitHub repo size](https://img.shields.io/github/repo-size/souravkatkar/blinker-)
+
 This is a Computer Graphics project. The project is build using C on TurboC3.
 This project uses simple mouse events to build a game where in user has to click the coloured boxes to score. 
 Be careful the coloured box changes its position quickly and it becomes faster with your score.
